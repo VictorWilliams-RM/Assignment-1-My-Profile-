@@ -3,8 +3,6 @@
 <head>
 <title>Assignment 1<title>]
 </head>
- <embed src="files/AllInOne. pdf" type="application/pdf" width="100%" height="600px" />
- <hl>My It Profile</h1>
- <p>>Content about me 
+ <embed src="files/AllInOne.pdf" type="application/pdf" width="100%" height="600px" />
 </body>
 </html>
